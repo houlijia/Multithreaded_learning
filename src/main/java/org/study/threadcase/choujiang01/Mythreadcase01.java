@@ -1,4 +1,4 @@
-package org.study.threadcase.choujiang;
+package org.study.threadcase.choujiang01;
 
 import java.util.ArrayList;
 import java.util.Collections;
